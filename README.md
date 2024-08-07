@@ -1,7 +1,7 @@
 # Terminator-CopyAsHTML
 [Terminator](https://github.com/gnome-terminator/terminator) plugin that allows you to copy the selected text as HTML
 
-![Screenshot](images/Screenshot_Firefox.png)
+![Screenshot](images/Screenshot_Menu.png)
 
 While the feature request for Terminator to natively support "Copy As HTML" (see [Copy as HTML [Feature Request] #754](https://github.com/gnome-terminator/terminator/issues/754)), this plugin does the same thing.
 
