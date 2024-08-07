@@ -21,7 +21,7 @@ chmod +x ~/.config/terminator/plugins/copyAsHTML.py
 ```
 2. Restart and open `Terminator`
 2. Right-Click in the Terminator window and click `Preferences`
-3. Click on the `Plugins`
+3. Click on the `Plugins` tab
 4. Check `CopyAsHTML`
 5. Click `X Close`
 6. You should now see the option `Copy as HTML` when you right-click selected text
