@@ -10,3 +10,18 @@ A plugin can be installed by adding the `copyAsHTML.py` python file in one of tw
 This will need root permissions to do. The optional local/ is usually for packages installed by hand, rather than through the package manager, and this depends on how Terminator was installed on your system.
 - `~/.config/terminator/plugins/`
 This allows you to use plugins without needing root.
+
+## Installation Walkthrough
+1. Download `copyAsHTML.py` and move to the plugin directory
+```bash
+git clone https://github.com/justin-ball/Terminator-CopyAsHTML.git
+cd Terminator-CopyAsHTML
+cd copyAsHTML.py ~/.config/terminator/plugins/
+chmod +x ~/.config/terminator/plugins/copyAsHTML.py
+```
+2. Restart and open `Terminator`
+2. Right-Click in the Terminator window and click `Preferences`
+3. Click on the `Plugins`
+4. Check `CopyAsHTML`
+5. Click `X Close`
+6. You should now see the option `Copy as HTML` when you right-click selected text
