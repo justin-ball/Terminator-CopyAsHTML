@@ -1,7 +1,14 @@
 # Terminator-CopyAsHTML
 [Terminator](https://github.com/gnome-terminator/terminator) plugin that allows you to copy the selected text as HTML
 
+<img src="images/Screenshot_Menu.png" width=600>
+
 > While the feature request for Terminator to natively support "Copy As HTML" is being worked (see [Copy as HTML [Feature Request] #754](https://github.com/gnome-terminator/terminator/issues/754)), this plugin can act as a substitute.
+
+# Why would you want selected text from your terminal to be in HTML?
+In applications like Obsidian for note taking, the HTML will to rendered so it looks just like a screenshot, but all your text is still there for easy searching.
+
+<img src="images/Screenshot_Obsidian.png" width=600>
 
 # Installing the plugin
 A plugin can be installed by adding the `copyAsHTML.py` python file in one of two locations:
